@@ -4,7 +4,7 @@
 
 I have generated some handmade AWS CLI cheat sheets, which can be printed.
 
-There are both handmade(#handmade) and markdown(#markdown) versions available:
+There are both [handmade](#handmade) and [markdown](#markdown) versions available:
 ## Markdown:
 - [IAM](/IAM.md)
 - [EC2](/EC2.md)
