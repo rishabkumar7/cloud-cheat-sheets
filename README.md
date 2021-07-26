@@ -7,3 +7,6 @@ Here are some of my handmade cheat sheets for different AWS services:
 
 ### S3
 ![S3](/S3CheatSheet.jpg)
+
+### IAM
+![IAM](/IAMCheatSheet.png)
